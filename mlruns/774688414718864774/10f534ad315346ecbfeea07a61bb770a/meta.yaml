@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/774688414718864774/10f534ad315346ecbfeea07a61bb770a/artifacts
+end_time: 1761337408418
+entry_point_name: ''
+experiment_id: '774688414718864774'
+lifecycle_stage: active
+run_id: 10f534ad315346ecbfeea07a61bb770a
+run_name: polite-mouse-245
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761337407829
+status: 3
+tags: []
+user_id: user

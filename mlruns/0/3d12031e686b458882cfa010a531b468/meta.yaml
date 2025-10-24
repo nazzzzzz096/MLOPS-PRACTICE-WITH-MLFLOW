@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3d12031e686b458882cfa010a531b468/artifacts
+end_time: 1761335495200
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3d12031e686b458882cfa010a531b468
+run_name: bouncy-dove-807
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761335495117
+status: 3
+tags: []
+user_id: user

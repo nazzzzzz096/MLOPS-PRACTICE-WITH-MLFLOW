@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/774688414718864774/a0381927457545e1af4d84755529dd40/artifacts
+end_time: 1761340785709
+entry_point_name: ''
+experiment_id: '774688414718864774'
+lifecycle_stage: active
+run_id: a0381927457545e1af4d84755529dd40
+run_name: treasured-hawk-922
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761340773519
+status: 3
+tags: []
+user_id: user

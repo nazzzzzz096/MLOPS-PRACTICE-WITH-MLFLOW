@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/774688414718864774/41e5df5420554ff4abb608738d755065/artifacts
+end_time: 1761338463972
+entry_point_name: ''
+experiment_id: '774688414718864774'
+lifecycle_stage: active
+run_id: 41e5df5420554ff4abb608738d755065
+run_name: capable-bat-555
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761338450350
+status: 3
+tags: []
+user_id: user
